@@ -2,8 +2,8 @@ public class AESTest {
   public static void main(String[] args){
         String content = "abcdefg789+-*+="; // 待加密的字符串
  
-        String aesKey = "I0YmM5NTgtY2IyYi00OWIzLWFkZTktZj";
-        String iv = "BjNzhiZDctOGMxOS";
+        String aesKey = "87726f89365f8171";
+        String iv = "18f5ebf9346eb321";
  
         try {
             // 加密
