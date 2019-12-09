@@ -2,8 +2,8 @@ import { AESUtil } from './AESUtil'
  
     // 测试的明文
     let content = "abcdefg789+-*+="    
-    let IV = "BjNzhiZDctOGMxOS" // 注意IV必须是 16 个字节 8*16 = 128 位
-    let aesKey = "I0YmM5NTgtY2IyYi00OWIzLWFkZTktZj" // 由于采用的 AES-256， 所以 Key 为 32 个字节 32*8 = 256
+    let IV = "18f5ebf9346eb321" // 注意IV必须是 16 个字节 8*16 = 128 位
+    let aesKey = "87726f89365f8171" // 由于采用的 AES-256， 所以 Key 为 32 个字节 32*8 = 256
  
  
     // 加密：
