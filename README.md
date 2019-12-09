@@ -1,2 +1,2 @@
 # java-js-encryption
-Java
+Java和JavaScript互相加解密
